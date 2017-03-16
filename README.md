@@ -3,7 +3,7 @@ Dünyanın en basit database frameworkü
 
 <img src="https://github.com/ugurkilci/iamu/blob/master/res/iamu.logo.jpg?raw=true" width="300px" height="300px"/>
 
-Sadece tek fonsiyonla database işlemlerini kolayca gerçekleştirin.
+Sadece tek fonksiyonla database işlemlerini kolayca gerçekleştirebilirsiniz.
 
 Örneğin,
 iamu(":config", "localhost", "iamu", "utf8", "root", ""); // Veri Bağlantısı <br />
