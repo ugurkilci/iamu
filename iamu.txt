@@ -1,0 +1,6 @@
+iamu
+vv	veri bağlantısı
+vx	veri çekme
+xx	veri yükleme
+xx	veri silme
+xx	veri güncelleme
