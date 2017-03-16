@@ -1,7 +1,7 @@
 # iamu
 Dünyanın en basit database frameworkü
 
-<img src="https://github.com/ugurkilci/iamu/blob/master/res/iamu.logo.jpg?raw=true" style="width:200px;height:200px;"/>
+<img src="https://github.com/ugurkilci/iamu/blob/master/res/iamu.logo.jpg?raw=true" width="150px" height="150px"/>
 
 Sadece tek fonsiyonla database işlemlerini kolayca gerçekleştirin.
 
