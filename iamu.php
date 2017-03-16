@@ -14,7 +14,7 @@
 
 	/**
 	 *
-	 * Sadece tek fonsiyonla database işlemlerini kolayca gerçekleştirin.
+	 * Sadece tek fonksiyonla database işlemlerini kolayca gerçekleştirebilirsiniz.
 	 * Not: Şuan sadece dinamik veri bağlantısı ve basit veri çekme işlemlerini gerçekleştirmektedir.
 	 * Not2: Select işlemi daha pratikleşecektir.
 	 * Not3: Geliştirilmeye devam edecektir. Takipte kalın!
