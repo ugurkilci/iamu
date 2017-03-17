@@ -37,6 +37,14 @@
 	 *  @param integer $five boş bırakınız
 	 * }
 	 *
+	 * Eğer $type :select_ ise{
+	 *  @param integer $one temsili tablo adı
+	 *  @param integer $two sütun adı
+	 *  @param integer $three boş bırakınız
+	 *  @param integer $four boş bırakınız
+	 *  @param integer $five boş bırakınız
+	 * }
+	 *
 	 * @param $select_ ekrana yazı yazdır.
 	 *
 	 */
