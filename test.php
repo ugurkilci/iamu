@@ -8,4 +8,5 @@
 	iamu(":select", "tablo", "where", "id=?", "1", ""); // Veri Çekme
 	// :select, tablo, where, sütunlar, değişkenler, boş
 
-	echo $select_["tone"]; // ekrana yazdır.
+	iamu(":select_", "deneme", "ttwo", null, null, null); // Veri Yazdır
+	// :select_, temsili ad, sütun adı, (boş)
