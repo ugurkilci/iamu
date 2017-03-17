@@ -60,5 +60,11 @@
 	            $four
 	        ));
 	        $select_ = $select->fetch(PDO::FETCH_ASSOC);
+		}elseif ($type == ":select_"){
+	    		/* Bir ihtimalle bu olabilirdi.
+			   $one  = $select_;
+	    		   eval('echo $one["$two"];');
+			 */
+	    		echo $select_["$two"];
 		}
 	}
