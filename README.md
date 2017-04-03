@@ -3,6 +3,8 @@ Dünyanın en basit database frameworkü
 
 <img src="https://github.com/ugurkilci/iamu/blob/master/res/iamu.logo.jpg?raw=true" width="300px" height="300px"/>
 
+<a href="https://github.com/izniburak/pdox">PDOx</a> isimli bir open source yi gördükten sonra bu iamu projesini durdurdum.
+
 Sadece tek fonksiyonla database işlemlerini kolayca gerçekleştirebilirsiniz.
 
 Örneğin,
